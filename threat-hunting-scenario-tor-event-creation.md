@@ -75,8 +75,8 @@ DeviceFileEvents
 ---
 
 ## Created By:
-- **Author Name**: Josh Madakor
-- **Author Contact**: https://www.linkedin.com/in/joshmadakor/
+- **Author Name**: Faith Bitsia
+- **Author Contact**: www.linkedin.com/in/faith-bitsia-568149247
 - **Date**: August 31, 2024
 
 ## Validated By:
